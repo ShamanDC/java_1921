@@ -8,7 +8,7 @@ public class Main {
         collection.add(123);
         collection.add(100);
         collection.add(1000);
-//        System.out.println(collection.add(39));
+        System.out.println(collection.add(39));
 //        System.out.println(collection.size());
 //        collection.clear();
 //        System.out.println(collection.size());
